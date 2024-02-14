@@ -1,0 +1,15 @@
+C:\Users\kerem\OneDrive\Masaüstü\c#Uygulamalari\MaskeTakip\WorkAround\bin\Debug\net6.0\WorkAround.exe
+C:\Users\kerem\OneDrive\Masaüstü\c#Uygulamalari\MaskeTakip\WorkAround\bin\Debug\net6.0\WorkAround.deps.json
+C:\Users\kerem\OneDrive\Masaüstü\c#Uygulamalari\MaskeTakip\WorkAround\bin\Debug\net6.0\WorkAround.runtimeconfig.json
+C:\Users\kerem\OneDrive\Masaüstü\c#Uygulamalari\MaskeTakip\WorkAround\bin\Debug\net6.0\WorkAround.dll
+C:\Users\kerem\OneDrive\Masaüstü\c#Uygulamalari\MaskeTakip\WorkAround\bin\Debug\net6.0\WorkAround.pdb
+C:\Users\kerem\OneDrive\Masaüstü\c#Uygulamalari\MaskeTakip\WorkAround\obj\Debug\net6.0\WorkAround.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kerem\OneDrive\Masaüstü\c#Uygulamalari\MaskeTakip\WorkAround\obj\Debug\net6.0\WorkAround.AssemblyInfoInputs.cache
+C:\Users\kerem\OneDrive\Masaüstü\c#Uygulamalari\MaskeTakip\WorkAround\obj\Debug\net6.0\WorkAround.AssemblyInfo.cs
+C:\Users\kerem\OneDrive\Masaüstü\c#Uygulamalari\MaskeTakip\WorkAround\obj\Debug\net6.0\WorkAround.csproj.CoreCompileInputs.cache
+C:\Users\kerem\OneDrive\Masaüstü\c#Uygulamalari\MaskeTakip\WorkAround\obj\Debug\net6.0\WorkAround.dll
+C:\Users\kerem\OneDrive\Masaüstü\c#Uygulamalari\MaskeTakip\WorkAround\obj\Debug\net6.0\refint\WorkAround.dll
+C:\Users\kerem\OneDrive\Masaüstü\c#Uygulamalari\MaskeTakip\WorkAround\obj\Debug\net6.0\WorkAround.pdb
+C:\Users\kerem\OneDrive\Masaüstü\c#Uygulamalari\MaskeTakip\WorkAround\obj\Debug\net6.0\WorkAround.genruntimeconfig.cache
+C:\Users\kerem\OneDrive\Masaüstü\c#Uygulamalari\MaskeTakip\WorkAround\obj\Debug\net6.0\ref\WorkAround.dll
+C:\Users\kerem\OneDrive\Masaüstü\c#Uygulamalari\MaskeTakip\WorkAround\obj\Debug\net6.0\WorkAround.csproj.AssemblyReference.cache
